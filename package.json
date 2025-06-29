@@ -1,0 +1,25 @@
+{
+  "name": "knowme.dev",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/joaoteixeiratxt/knowme.dev#readme",
+  "bugs": {
+    "url": "https://github.com/joaoteixeiratxt/knowme.dev/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoteixeiratxt/knowme.dev.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "dependencies": {
+    "next": "15.3.2",
+    "react": "19.1.0",
+    "react-dom": "19.1.0"
+  }
+}
